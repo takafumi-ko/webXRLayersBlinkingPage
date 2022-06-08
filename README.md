@@ -1,0 +1,1 @@
+This repository reproduces this issue https://github.com/immersive-web/webxr-samples/issues/150
